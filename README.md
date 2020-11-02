@@ -9,6 +9,7 @@ Install [Node-red](https://nodered.org/#get-started) on a raspberry pi
 If you don't have a mqtt server you need one, [mosquitto](https://randomnerdtutorials.com/how-to-install-mosquitto-broker-on-raspberry-pi/) works well  
 Import the flows located in the directory flows
 Install [yolo](https://medium.com/analytics-vidhya/raspberry-pi-tensorflow-2-installation-and-yolo-v3-object-detection-549f2346a3ab) on the desktop of the pi
+Take the file "classify-node-red.py" and move it to the folder TensorFlow-2.x-YOLOv3
 
 <h2>Usage</h2>
 <h3>Photos which exist on a computer</h3>
